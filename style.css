@@ -10,9 +10,9 @@ body {
 
 img {
   position: absolute;
-  top: -10%;
-  height: 40%;
-  width: 30%
+  top: -5rem;
+  height: 20rem;
+  width: 30rem;
 }
 
 .container {
